@@ -1,0 +1,40 @@
+# python venv
+venv/
+.venv/
+
+# cache
+__pycache__/
+*.pyc
+
+# logs / temp
+*.log
+.DS_Store
+
+# Chrome user data (profile)
+**/chrome_userdata/
+**/chrome_user_data_assistant/
+**/chrome_user_data/
+**/chrome_user_data_grok/
+**/chrome_user_data_sora/
+**/downloads/
+**/Workflows/
+yt-dlp.exe
+ffmpeg.exe
+ffprobe.exe
+ffplay.exe
+**/data_general/
+**/UpscaleEngine/
+
+**/RUN_VEO_3_ULTRA_PROMAX.build/
+**/RUN_VEO_3_ULTRA_PROMAX.dist/
+**/RUN_VEO_3_ULTRA_PROMAX.onefile-build/
+
+**/AUTO_VEO3_V3.8.6.build/
+**/AUTO_VEO3_V3.8.6.dist/
+**/AUTO_VEO3_V3.8.6.onefile-build/
+
+**/RUN_VEO_3_ULTRA_PROMAX_V4.0.build/
+**/RUN_VEO_3_ULTRA_PROMAX_V4.0.dist/
+**/RUN_VEO_3_ULTRA_PROMAX_V4.0.onefile-build/
+**/RUN_VEO_3_ULTRA_PROMAX_V4.0/
+**/RUN_VEO_3_ULTRA_PROMAX/

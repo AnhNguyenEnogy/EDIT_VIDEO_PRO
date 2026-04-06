@@ -1,0 +1,24 @@
+{
+  "font_name": "Segoe UI",
+  "font_size": 55,
+  "bold": true,
+  "text_color": "#ffff00",
+  "border_color": "#000000",
+  "border_width": 1,
+  "line_gap": 63,
+  "y_vi": 836,
+  "y_en": 899,
+  "y_ipa": 962,
+  "word1": {
+    "time_start": 1.0,
+    "time_end": 4.0
+  },
+  "word2": {
+    "time_start": 5.0,
+    "time_end": 8.0
+  },
+  "excel_path": "D:/Video Download/DATA_KHONG_XOA/VIDEO_làm_thuê/New folder/me_con_gai_80_topics_english_scripts_V2.xlsx",
+  "video_dir": "D:/Video Download/DATA_KHONG_XOA/VIDEO_làm_thuê/New folder/80_video_tieng_anh/video",
+  "output_dir": "D:/Video Download/DATA_KHONG_XOA/VIDEO_làm_thuê/tieng_anh/80_video_edit",
+  "scenes": 4
+}
